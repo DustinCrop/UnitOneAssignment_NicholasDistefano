@@ -17,7 +17,7 @@ Ripple’s ODL (On-Demand Liquidity), a service of RippleNet, claims to lessen t
 Ripple has customers ranging from large financial institutions such as Bank of America to creditors and exchanges like American Express and LuLu Exchange, respectively. MoneyGram, a payment firm utilizes the On-Demand Liquidity service provided by RippleNet. Their partnership with international giant Banco Santander demonstrates an irrefutable interest from the enterprise financial sector to provide their customers with an updated and streamlined method of moving value across the world. 
 RippleNet relies on partners to utilize their services and XRP to provide liquidity. Currently, with 300+ customers and growing, RippleNet is proving to be a widespread and functional network. However, for their goal of instant cross-border payments to be realized, it seems that many more large players in the financial world will need to adopt the services of the XRP and RippleNet technologies.  Ripple still appears to be in an early phase of their roadmap, but at their increasing rate of growth, institutional adoption, and interest surrounding the XRP (barring any regulatory outcome of the ongoing SEC vs Ripple Lawsuit) it doesn’t seem far-fetched to assume that it will not be long before the true value of their technology will become apparent on the consumer scale. 
 
-Referenced Sites:
+                                                  Referenced Sites:
 
 https://blog.bitmex.com/the-ripple-story/
 https://www.skalex.io/what-is-ripple/#what-ripple-solves
