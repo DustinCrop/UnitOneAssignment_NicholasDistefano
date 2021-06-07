@@ -1,4 +1,4 @@
-# Ripple: Developing the Internet of Value with XRP
+# Ripple: Developing the Internet of Value utilizing XRP
 ![xrp-5](https://user-images.githubusercontent.com/80294821/120043968-e3c44a80-bfda-11eb-8df4-8d2efcca745e.png)
 Nicholas Distefano
 
